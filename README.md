@@ -19,6 +19,7 @@ i reverse engineer stuff, dump internal offsets, and write guides on how to find
 
 * i just mess around with low level stuff, reverse engineering, and write docs on what i find
 * started reversing: ~5 months ago
+* you can call me nick
 
 <br>
 
