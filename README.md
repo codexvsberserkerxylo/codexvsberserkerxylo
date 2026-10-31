@@ -26,6 +26,7 @@ i reverse engineer stuff, dump internal offsets, and write guides on how to find
 <div align="center">
 
 discord: [@skiddingonthescene](https://discord.com/users/1227977806127042670)
-(i dont reply to dms that often)
+
+(i dont accept random friend requests)
 
 </div>
