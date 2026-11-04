@@ -18,7 +18,7 @@ i reverse stuff, dump offsets, and write guides on how to find specific offsets
 ### about me
 
 * i like dumping offsets ig
-* started reversing: ~7 months ago
+* started reversing: ~5-7 months ago
 * you can call me nick
 
 <br>
